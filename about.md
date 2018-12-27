@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Pride Parade with my Boytoy](/assets/pride.jpg){:width="400px"}
+![Pride Parade with my Partner](/assets/pride.jpg){:width="400px"}
 
 My name is Britney and I am a software developer and hobby enthusiast.  I say hobby entusiast because I enjoy diving into many different types of things and can never narrow it down to just a few.
 
