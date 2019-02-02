@@ -2,6 +2,7 @@
 layout: post
 title: "The Purpose of this Blog"
 date: 2018-10-10 10:15:00 +0200
+summary: A short explanation about why this blog exists and my goals around maintaining it.
 published: true
 ---
 

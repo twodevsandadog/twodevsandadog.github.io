@@ -2,6 +2,7 @@
 layout: post
 title: "My Journey to Unemployed"
 date: 2018-10-17 10:15:00 +0200
+summary: Unemployed and embracing this break from the full time American lifestyle.  It took a long time to come to the conclusion that I needed a change, but I'm glad I did.  I think everyone could benefit from a break and I wish more people had the opportunity to take one to discover themselves and what makes themselves happy.
 published: true
 ---
 
