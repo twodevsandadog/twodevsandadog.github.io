@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing in Alexa"
-date: 2021-02-17 10:15:00 +0200
+date: 2021-01-17 10:15:00 +0200
 summary: Discussion of Alexa skill development
 published: true
 ---
