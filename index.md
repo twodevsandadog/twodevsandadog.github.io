@@ -9,8 +9,8 @@ title: Home
 
 My name is Britney and I am the owner of this (very) small software consultancy company.
 
-I currently live and work in Amsterdam and I specialize in bootstrapping web applications.  I worked at 
-Amazon Web Services for 4 years and I have experience in AWS, cloud services and full stack architecture.  I have an eye for making an application the simplest way possible with the least components, to allow you to support it easily from a cost and time perspective.  My main languages for building stacks right now are Javascript, Java and Python but I use other technologies like bash when they are more appropriate.
+I currently live and work in Utrecht, Netherlands and I specialize in bootstrapping web applications. I worked at
+Amazon/AWS for 4 years and I have experience in Java, Javascript, NodeJS, Spring, Serverless Framework, AWS, cloud services and full stack architecture. I have an eye for making an application simply, to allow you to support it easily from a cost and time perspective.
 
 <a href="mailto:britney.devs@gmail.com">Send me an email!</a>
 
