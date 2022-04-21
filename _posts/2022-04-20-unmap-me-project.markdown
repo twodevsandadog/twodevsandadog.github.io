@@ -1,15 +1,53 @@
 ---
 layout: post
-title: "Exploring project design"
+title: "UnMap Me Design Document"
 date: 2022-04-20 14:00:00 +0200
-summary: Design documents for software projects.
+summary: Working through the design of Unmap.me application
 published: true
 ---
 
-All or most software projects benefit from some forethought and planning. Going directly to writing code can cost you valuable time and churn if you don't know the exact goals you're working towards.
+# Unmap Me
 
-Even just documenting significant use cases can be a great start. It gives you a way to divide up what you're working on and document progress as you are able to finish things.
+## Context
 
-Better than that would be a document with more details about exactly how you intend to achieve those use cases - what technologies are you going to use? What does the API look like? This will allow you to more closely track that you are making progress on what you need to with the benefit of making it easier to work with others.
+A major service or use case of the internet is to enable users to find things in the physical world that they are looking for. The biggest applications used for this right now are Google, Google Maps, Apple Maps, I will refer to these as mapped-based applications. These work great for finding a general assortment of establishments and locations and every location includes types of information that applies to all locations (description, phone number, website, open hours). What these applications do not do well is provide information specific to the different types of locations. For example, if the location is a clothing store, what is the price point? Do they provide clothes for men, women, children? Plus sizes?
 
-Below I am going to put an example of a design document with all of the components that I think are beneficial for communicating, reviewing and making clear progress on a software project.
+As a conseqence these platforms are great for seeing where a location is and how 'good' a random demographic consider the location (0-5 star reviews). What they are not good at is providing useful information specific to the type of location that it is.
+
+There are some applications for more niche location finding - HappyCow.net being a good example. HappyCow.net provides locations and details only for restaurants with vegan and vegetarian options. There are also small examples such as the 'Store Locator' features on company websites (https://www.lowes.com/store/).
+
+## Problem Summary
+
+There is an opportunity here, in between the Google Maps use case and the niche location finders. Google Maps has great UX, but not great niche location information. Other mapped based applications have great niche location information, but not great user experience and they are complicated to develop.
+
+### Finding Relevant Information
+
+### User Experience of existing applications
+
+### Development of mapped based applications
+
+### Niche, Location-based Communities
+
+## Solution Summary
+
+## Use Cases
+
+These use cases will be separated between different launch milestones. Any that do not yet fit into a planned milestone will go in Beyond.
+
+### MVP
+
+### Beta
+
+### Beyond
+
+## Design Specifications
+
+### Front End / Application
+
+#### Technology
+
+#### Designs
+
+### Backend / Service
+
+## FAQ
