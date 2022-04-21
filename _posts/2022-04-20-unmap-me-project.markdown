@@ -14,7 +14,7 @@ A major service or use case of the internet is to enable users to find things in
 
 As a conseqence these platforms are great for seeing where a location is and how 'good' a random demographic consider the location (0-5 star reviews). What they are not good at is providing useful information specific to the type of location that it is.
 
-There are some applications for more niche location finding - HappyCow.net being a good example. HappyCow.net provides locations and details only for restaurants with vegan and vegetarian options. There are also small examples such as the 'Store Locator' features on company websites (https://www.lowes.com/store/).
+There are some applications for more niche location finding - [HappyCow](HappyCow.net) being a good example. HappyCow.net provides locations and details only for restaurants with vegan and vegetarian options. There are also small examples such as the 'Store Locator' features on company websites; [Lowes Store Finder](https://www.lowes.com/store/).
 
 ## Problem Summary
 

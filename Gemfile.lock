@@ -282,7 +282,7 @@ DEPENDENCIES
   jekyll (~> 3.9.2)
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
-  jekyll-theme-hyde-plus
+  jekyll-theme-hyde-plus (~> 0.2.0)
   tzinfo-data
   webrick (~> 1.7)
 

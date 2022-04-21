@@ -26,7 +26,7 @@ linkedin_username: bogardba
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-hyde-plus
+theme: jekyll-theme-hyde-plus
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
