@@ -51,3 +51,15 @@ These use cases will be separated between different launch milestones. Any that 
 ### Backend / Service
 
 ## FAQ
+
+## Appendix
+
+This is where I will document and detail information that is less central to the design as a whole and more specific to individual parts. This way I can refer to categories in this section for details when they would be a distraction in earlier parts of the document.
+
+### UX for Map Based Applications
+
+Part of the problem statement is that map based applications for niche applications often have a bad user experience. If this is true, and UnMap.me is meant to address this, we need to identify what 'good' and 'bad' UX in a map based application means exactly. While the MVP of this application cannot and should not have all of the features of something like Google Maps, it can be developed in a way that feels easy to use in mobile and in a browser from the start.
+
+#### UX Problems with existing niche map based applications
+
+#### User Experience Requirements
