@@ -18,15 +18,13 @@ There are some applications for more niche location finding - [HappyCow](HappyCo
 
 ## Problem Summary
 
-There is an opportunity here, in between the Google Maps use case and the niche location finders. Google Maps has great UX, but not great niche location information. Other mapped based applications have great niche location information, but not great user experience and they are complicated to develop.
+There is an opportunity here, in between the Google Maps use case and the niche location finders. Google Maps has great UX, but not great niche location information. Other mapped based applications have great niche location information, but not good user experience and they are complicated and expensive to develop. There are other communities out there as well who need to document locations specific to their community but the only tool they have are creating a google map and putting points on it, which doesn't solve the whole use case from an information and permissions standpoint.
 
-### Finding Relevant Information
+To summarize:
 
-### User Experience of existing applications
-
-### Development of mapped based applications
-
-### Niche, Location-based Communities
+- Google maps is not good at finding niche types of locations, with information specific to a domain
+- Niche location finding applications are hard to develop and often have bad UX
+- Location based communities don't have a good way to store and share databases of locations
 
 ## Solution Summary
 
