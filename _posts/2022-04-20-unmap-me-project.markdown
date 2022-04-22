@@ -28,9 +28,30 @@ To summarize:
 
 ## Solution Summary
 
+The proposed solution to these three problems is a map based application framework called UnMap.me. Through UnMap.me you can create a niche-specific map based application, define a specification for the information that needs to be saved for those locations, then start adding and viewing those locations inside of your niche.unmap.me application.
+
+For example if I wanted to start a map based application for the best kebab places in the city, I could go to unmap.me and go through a series of steps to select the unmap name, define information for kebab places (name, open times, self baked wraps, felafel available), and create my own kebab.unmap.me. Then I could add locations to that application with the relevant information for others to see.
+
 ## Use Cases
 
-These use cases will be separated between different launch milestones. Any that do not yet fit into a planned milestone will go in Beyond.
+These use cases will be separated between different launch milestones. Any that do not yet fit into a planned milestone will go in the Beyond section.
+There are a few user types here that will be explained later in the Permissions section.
+
+General:
+
+- As a user I can register on unmap.me
+- As a registered user I can create a new unmap application for a new type of location, and become an admin for that unmap
+- As a user I can go to an existing public unmap and view all of the locations
+- As a registered user with access to a private unmap, I can view a map of locations and click into each to view more information
+- As a user with access to an unmap, I can move a map around to see locations in other parts of the world
+- As a user with access to an unmap, I can search for locations given keywords or regions of the world
+
+Admin:
+
+- As an admin for a unmap, I can define and edit the information needed for each location in that unmap
+- As an admin for a unmap I can add locations with domain specific information to that unmap
+- As an admin for a unmap I can make my unmap private or public
+- As an admin for a private unmap I can invite other users to join to view locations
 
 ### MVP
 
@@ -39,6 +60,8 @@ These use cases will be separated between different launch milestones. Any that 
 ### Beyond
 
 ## Design Specifications
+
+### Permissions
 
 ### Front End / Application
 
