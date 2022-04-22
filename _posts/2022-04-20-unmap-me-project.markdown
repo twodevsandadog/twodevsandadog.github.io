@@ -61,6 +61,48 @@ Admin:
 
 ## Design Specifications
 
+### Data Model
+In general, there are roughly three main types of data:
+
+- Users
+- UnMaps
+- Locations
+
+#### User
+A user is a pretty basic, it has the following pieces of data:
+
+- A username
+- A name
+- An email address
+
+There will be additional details, like password hashes and what not, that will likely be delegated to AWS Cognito.
+
+#### UnMaps
+An UnMap represents a collection of locations that all share some common elements. They will need the following data:
+
+- A name
+- A slug (used for the url, i.e. is the slug is `kebab`, then the url would be `kebab.unmap.me`)
+- A description
+- A "Location Data Model"
+
+##### Location Data Model
+A Location Data Model (LDM) is the definition of what attributes an UnMap captures for all locations defined within it. In essence, the LDM is a list of "Attributes", where an attribute has the following fields:
+
+- A name
+- A type (i.e. `checkbox`, `list`, `text`, `selection`, `multi-selection`)
+- A type-specific definition (as necessary, for example a `selection` would contain a list of options to choose from)
+- A description of the field
+- Whether or not the field is required, and whether there is a sane default.
+
+#### Location
+A Location belongs to an UnMap and will contain metadata about the location, in addition to a populated "Location Data Model". The fields are as follows:
+
+- An unmap
+- A name
+- An address
+- Coordinates (determined automatically)
+- A populated LDM that follows the definition in the UnMap.
+
 ### Permissions
 
 ### Front End / Application
